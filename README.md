@@ -51,12 +51,9 @@ check examples.c source file
 
 # Usage
 ```
-git clone https://github.com/Capitan-KoLiBer/Kipc.git
+git clone https://github.com/Capitan-KoLiBer/Kprocessor.git
 mkdir build
 cd build
 cmake ..
 make 
 ```
-finally link libkipc.so to your project and include .h headers in include folder
-<br/>
-:)
